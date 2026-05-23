@@ -3,7 +3,9 @@
 ### Overview
 Brain-computer interfaces help people send messages and execute commands using brain signals. 
 
-It is a low-cost, interactive BCI system that explores how EEG signals can be recorded and turned into actions on a computer. [Specifically, this project acquires weak EEG signals generated during eye blinking, processes them efficiently, and uses them as an input command to make the dinosaur jump in the Chrome Dino game.
+It is a low-cost, interactive BCI system that explores how EEG signals can be recorded and turned into actions on a computer. 
+
+Specifically, this project acquires weak EEG signals generated during eye blinking, processes them efficiently, and uses them as an input command to make the dinosaur jump in the Chrome Dino game.
 
 ### Key Features
 * **Real-Time Blink Detection:** An action on the computer gets triggered for every eye-blink.
